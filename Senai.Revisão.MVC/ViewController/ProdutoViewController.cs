@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using Senai.Revisão.MVC.Repositorio;
 using Senai.Revisão.MVC.ViewModel;
 
@@ -39,6 +40,13 @@ namespace Senai.Revisão.MVC.ViewController
 
         }//fim cadastrar Produto
 
-        public static void Listar();
+        public static void Listar(){
+            List<ProdutoViewModel> listaDeProdutos = produtoRepositorio.Listar();
+            foreach (var item in listaDeProdutos){
+                if(item != null){
+                    Console.WriteLine($"ID: {item.Id} - Nome: {item.Nome} - Criador: {item.IdResponsavel}");
+                }
+            }
+        }
     }
 }

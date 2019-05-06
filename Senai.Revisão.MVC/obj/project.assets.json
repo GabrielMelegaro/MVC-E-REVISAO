@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47218167829\\Documents\\MVC\\MVC\\Senai.Revisão.MVC\\Senai.Revisão.MVC.csproj",
+      "projectUniqueName": "c:\\Users\\47218167829\\Documents\\MVC-E-REVISAO\\Senai.Revisão.MVC\\Senai.Revisão.MVC.csproj",
       "projectName": "Senai.Revisão.MVC",
-      "projectPath": "C:\\Users\\47218167829\\Documents\\MVC\\MVC\\Senai.Revisão.MVC\\Senai.Revisão.MVC.csproj",
+      "projectPath": "c:\\Users\\47218167829\\Documents\\MVC-E-REVISAO\\Senai.Revisão.MVC\\Senai.Revisão.MVC.csproj",
       "packagesPath": "C:\\Users\\47218167829\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47218167829\\Documents\\MVC\\MVC\\Senai.Revisão.MVC\\obj\\",
+      "outputPath": "c:\\Users\\47218167829\\Documents\\MVC-E-REVISAO\\Senai.Revisão.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

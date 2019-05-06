@@ -36,10 +36,11 @@ namespace Senai.Revisão.MVC
                                 switch (opcaoLogado){
                                     case 1:
                                     //Cadastrar Produto
-                                    ProdutoViewController.CadastrarProduto(usuarioRecuperado.Id);
+                                    ProdutoViewController.CadastrarProduto(usuarioRecuperado);
                                     break;
                                     case 2:
                                     //Listar Produtos
+                                    ProdutoViewController.Listar();
                                     break;
                                     case 3:
                                     //Buscar Produto por Id

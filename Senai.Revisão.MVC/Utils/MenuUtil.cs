@@ -13,7 +13,7 @@ namespace Senai.Revisão.MVC.Utils
             Console.WriteLine("-----------------------------------------");
         }
 
-        public static void Menulogado(){
+        public static void MenuLogado(){
             Console.WriteLine("-----------------------------------------");
             Console.WriteLine("---------(1) - Cadastrar Produto---------");
             Console.WriteLine("--------------(2) - Listar---------------");

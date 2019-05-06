@@ -9,3 +9,14 @@ C:\Users\47218167829\Documents\MVC\MVC\Senai.Revisão.MVC\obj\Debug\netcoreapp2.
 C:\Users\47218167829\Documents\MVC\MVC\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.AssemblyInfo.cs
 C:\Users\47218167829\Documents\MVC\MVC\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.dll
 C:\Users\47218167829\Documents\MVC\MVC\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.pdb
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\bin\Debug\netcoreapp2.1\Senai.Revisão.MVC.deps.json
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\bin\Debug\netcoreapp2.1\Senai.Revisão.MVC.runtimeconfig.json
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\bin\Debug\netcoreapp2.1\Senai.Revisão.MVC.runtimeconfig.dev.json
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\bin\Debug\netcoreapp2.1\Senai.Revisão.MVC.dll
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\bin\Debug\netcoreapp2.1\Senai.Revisão.MVC.pdb
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.csprojAssemblyReference.cache
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.csproj.CoreCompileInputs.cache
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.AssemblyInfoInputs.cache
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.AssemblyInfo.cs
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.dll
+C:\Users\47218167829\Documents\MVC-E-REVISAO\Senai.Revisão.MVC\obj\Debug\netcoreapp2.1\Senai.Revisão.MVC.pdb
